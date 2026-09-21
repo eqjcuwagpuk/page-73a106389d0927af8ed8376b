@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "799e5ca42db1dc717f0955ac",
+  "owner": "eqjcuwagpuk",
+  "repo": "page-73a106389d0927af8ed8376b",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "73a106389d0927af8ed8376b",
+      "a": "大哥云",
+      "b": "机场官网线路发布页",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0342bb206effb5849381abdcb4868741bbfdb75041fdadcae160d6098b012c4f",
+      "content": {
+        "primary_entity": "大哥云",
+        "keyword1": "大哥云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外网络连接的用户，提供三种月付或年付套餐。基础版每月15元含100GB流量，旗舰版每月35元含300GB并支持IPLC专线，团队版每月85元含1000GB并支持20台设备。用户可根据设备数量和流量需求选择对应方案，配置订阅后即可在常用客户端使用。",
+          "AI_HERO_SUBTITLE": "选好套餐轻松连接海外",
+          "AI_HERO_INTRO": "大哥云提供基础版、旗舰版和团队版三档套餐，月付15元起，年付更划算。流量从100GB到1000GB，支持3台至20台设备同时在线，旗舰版和团队版包含IPLC专线及专属节点。按设备数量和月度流量挑选，再依客户端导入订阅即可。",
+          "AI_VISUAL_TITLE": "大哥云套餐对比与订阅配置",
+          "AI_HIGHLIGHT_1": "月付15元起，年付享优惠",
+          "AI_HIGHLIGHT_2": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_3": "IPLC专线优化游戏延迟",
+          "AI_FEATURES_TITLE": "套餐特点与选择方向",
+          "AI_FEATURES_INTRO": "按设备数量、月流量和线路需求对应不同套餐，年付价格更节省。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台，旗舰版5台，团队版20台，按常用设备数挑选。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度使用，300GB和1000GB适合多设备或高消耗场景。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，比月付节省。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，请根据设备类型选择并参照其文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，流量与设备数依次递增。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，按顺序操作即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与所需客户端类型，了解套餐对应的节点与带宽说明。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按所用客户端的说明导入配置并连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "大哥云套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "支持在有效期内升级套餐，补差价即可更换至更高档位。降级或变更周期建议在续费前操作，具体以购买时页面提示为准。",
+          "AI_FAQ_QUESTION_2": "一个账号最多几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版支持5台，团队版支持20台同时在线。超出数量可能导致连接受限，建议按常用设备数选择套餐。",
+          "AI_FAQ_QUESTION_3": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_3": "复制订阅地址后，在对应客户端中选择从链接导入或手动添加订阅，保存后更新节点列表即可。不同客户端操作入口不同，参照其帮助文档完成。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "当月流量用尽后可选择提前续费或升级套餐来补充流量。部分套餐支持重置流量包，具体可在用户中心查看可选操作。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版的线路有区别吗？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线并优化游戏加速，团队版提供VIP专属高带宽节点并支持企业定制路由。两者节点池和带宽规格不同，可按使用场景选择。",
+          "AI_CLOSING_TITLE": "选对套餐连接更顺畅",
+          "AI_CLOSING_TEXT": "对比三档套餐后，按设备数量与流量需求选定并配置订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qcwle.cn",
+    "host": "qcwle.cn"
+  },
+  "file_hashes": {
+    "index.html": "157f45ab9ef78fd81cc8730788e01f46dc4f70159ac57ef596cd80ef4c946f0e",
+    "sitemap.xml": "cb41e8d46083ed72aaeaa233791cfb65bf6123d91cc71ed6aa33c56204ec64a6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "12ee80fc5ac6dcb307c8fb90c337c34f886e10a039469f9ccd133a0c7282c834",
+    "robots.txt": "095e07183d71874fbdd5139afe60ba616f64d41c99f6f91869769b2103fd1559",
+    "f6e74156096d1fc052504afb13d872fa.txt": "5847058dcc03f90d3242755fcfc531f69553f2fa415c71681b4599aa897c54e1"
+  },
+  "revision": "f639df25b8c7d119b9dde731337709f7e49f97b6e0863478ebb16ee8c49cd976"
+}
